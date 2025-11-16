@@ -35,6 +35,32 @@ O projeto foi inteiramente feito em `Java`, utilizando o `Visual Studio Code` co
 
 ---
 
+# Exemplos gráficos
+
+Abaixo é possível analisar algumas imagens dos principais menus do projeto, exemplificando também algumas de suas funções.
+
+Menu de seleção de idioma:
+
+![menu de idioma](./fotos-exemplo/selecao-idioma.png)
+
+Menu principal:
+
+![menu principal](./fotos-exemplo/menu-principal.png)
+
+Gerenciador de usuários:
+
+![menu usuarios](./fotos-exemplo/gerenciador-de-usuarios.png)
+
+Gerenciador de livros:
+
+![menu livros](./fotos-exemplo/gerenciador-de-livros.png)
+
+Gerenciador de reservas:
+
+![menu reservas](./fotos-exemplo/gerenciador-de-reservas.png)
+
+---
+
 # Como compilar e rodar
 
 Para rodar o projeto é necessário instalar o `jdk` e instalar também a pasta do projeto. No diretório `src` rode pelo terminal:
