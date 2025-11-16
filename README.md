@@ -1,6 +1,6 @@
 # Projeto Biblioteca
 
-Projeto que simula de maneira simples o funcionamento de uma biblioteca. Estudo realizado utilizando Java. O sistema foi realizado de modo a concretizar alguns conceitos de POO, sendo iniciado de maneira simples, com apenas alguns cadastros, e logo depois foram incrementadas funcionalidades ao projeto neste repositório.
+Projeto que simula de maneira simples o funcionamento de uma biblioteca. Estudo realizado utilizando Java. O sistema foi realizado de modo a concretizar alguns conceitos de POO, sendo iniciado de maneira simples, com apenas alguns cadastros, e logo depois foram incrementadas funcionalidades ao projeto neste repositório. Para a elaboração, foram utilizadas funções de escolha de idioma e de salvamento dos dados em arquivos binários.
 
 ---
 
